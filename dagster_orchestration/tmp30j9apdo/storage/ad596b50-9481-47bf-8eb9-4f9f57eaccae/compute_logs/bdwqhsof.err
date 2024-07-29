@@ -1,0 +1,12 @@
+[32m2024-07-29 12:24:20 -0500[0m - dagster - [34mDEBUG[0m - __ASSET_JOB - ad596b50-9481-47bf-8eb9-4f9f57eaccae - 26489 - LOGS_CAPTURED - Started capturing logs in process (pid: 26489).
+[32m2024-07-29 12:24:20 -0500[0m - dagster - [34mDEBUG[0m - __ASSET_JOB - ad596b50-9481-47bf-8eb9-4f9f57eaccae - 26489 - airbyte_sync_1bef6 - STEP_START - Started execution of step "airbyte_sync_1bef6".
+[32m2024-07-29 12:24:24 -0500[0m - dagster - [34mINFO[0m - __ASSET_JOB - ad596b50-9481-47bf-8eb9-4f9f57eaccae - airbyte_sync_1bef6 - Job 59 initialized for connection_id=1bef685c-9cd9-44be-a9a8-90b1f496658c.
+[32m2024-07-29 12:25:05 -0500[0m - dagster - [34mDEBUG[0m - __ASSET_JOB - ad596b50-9481-47bf-8eb9-4f9f57eaccae - 26489 - airbyte_sync_1bef6 - STEP_OUTPUT - Yielded output "order_items" of type "Nothing". (Type check passed).
+[32m2024-07-29 12:25:05 -0500[0m - dagster - [34mDEBUG[0m - __ASSET_JOB - ad596b50-9481-47bf-8eb9-4f9f57eaccae - 26489 - airbyte_sync_1bef6 - ASSET_MATERIALIZATION - Materialized value raw_data order_items.
+[32m2024-07-29 12:25:05 -0500[0m - dagster - [34mDEBUG[0m - __ASSET_JOB - ad596b50-9481-47bf-8eb9-4f9f57eaccae - 26489 - airbyte_sync_1bef6 - STEP_OUTPUT - Yielded output "products" of type "Nothing". (Type check passed).
+[32m2024-07-29 12:25:05 -0500[0m - dagster - [34mDEBUG[0m - __ASSET_JOB - ad596b50-9481-47bf-8eb9-4f9f57eaccae - 26489 - airbyte_sync_1bef6 - ASSET_MATERIALIZATION - Materialized value raw_data products.
+[32m2024-07-29 12:25:05 -0500[0m - dagster - [34mDEBUG[0m - __ASSET_JOB - ad596b50-9481-47bf-8eb9-4f9f57eaccae - 26489 - airbyte_sync_1bef6 - STEP_OUTPUT - Yielded output "customers" of type "Nothing". (Type check passed).
+[32m2024-07-29 12:25:05 -0500[0m - dagster - [34mDEBUG[0m - __ASSET_JOB - ad596b50-9481-47bf-8eb9-4f9f57eaccae - 26489 - airbyte_sync_1bef6 - ASSET_MATERIALIZATION - Materialized value raw_data customers.
+[32m2024-07-29 12:25:05 -0500[0m - dagster - [34mDEBUG[0m - __ASSET_JOB - ad596b50-9481-47bf-8eb9-4f9f57eaccae - 26489 - airbyte_sync_1bef6 - STEP_OUTPUT - Yielded output "orders" of type "Nothing". (Type check passed).
+[32m2024-07-29 12:25:05 -0500[0m - dagster - [34mDEBUG[0m - __ASSET_JOB - ad596b50-9481-47bf-8eb9-4f9f57eaccae - 26489 - airbyte_sync_1bef6 - ASSET_MATERIALIZATION - Materialized value raw_data orders.
+[32m2024-07-29 12:25:05 -0500[0m - dagster - [34mDEBUG[0m - __ASSET_JOB - ad596b50-9481-47bf-8eb9-4f9f57eaccae - 26489 - airbyte_sync_1bef6 - STEP_SUCCESS - Finished execution of step "airbyte_sync_1bef6" in 45.08s.
